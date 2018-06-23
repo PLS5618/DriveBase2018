@@ -118,6 +118,7 @@ AddOutputFilter chunkFilter
 				<Item Name="MotorControl" Type="Folder">
 					<Item Name="TalonSR.vi" Type="VI" URL="../TalonSR.vi"/>
 					<Item Name="TalonSRX.vi" Type="VI" URL="../TalonSRX.vi"/>
+					<Item Name="Victor.vi" Type="VI" URL="../Victor.vi"/>
 				</Item>
 				<Item Name="ButtonPress.vi" Type="VI" URL="../ButtonPress.vi"/>
 				<Item Name="Lever.vi" Type="VI" URL="../Lever.vi"/>
